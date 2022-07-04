@@ -58,6 +58,7 @@ GEM
     uri (0.11.0)
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
@@ -71,9 +72,6 @@ DEPENDENCIES
   rubocop
   table_print
   time
-
-RUBY VERSION
-   ruby 3.0.0p0
 
 BUNDLED WITH
    2.3.7
